@@ -7,7 +7,7 @@ ilk önce MachineLearningModelMaker.py ile model eğitilip kaydediliyor sonra Ma
 
 Multilayer perceptronun bir çeşidi olan Convoluted Neural Networks kullanıldı.Katmanlar 3D dizide (X ekseni koordinatı, Y ekseni koordinatı ve rengi) düzenlendi.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/AligndzcylnMachine_learning_image-classification/blob/1/layers.png?raw=true)
 
 Görüldüğü üzere 8 katman bulunmaktadır modelimizde.
 
@@ -40,6 +40,5 @@ Decay’ın model üzerinde daha iyi sonuçlar vermesini sağladığını fark e
 Öğrenme hızı ve ağırlık güncellemesindeki gradyan yöntemi SGD olarak kullandım.
 
 ## Model eğitilirken öğrenme hızı aşağıdaki gibidir.
+![alt text](https://github.com/AligndzcylnMachine_learning_image-classification/blob/1/performance.png?raw=true)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
